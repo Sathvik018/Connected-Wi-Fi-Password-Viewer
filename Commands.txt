@@ -1,0 +1,3 @@
+'netsh wlan show profile' is a command in Windows that allows you to view the profiles of wireless networks that your computer has previously connected to. It displays a list of profiles for all the wireless networks that your computer has ever connected to, including the ones that are currently available.
+
+The command 'netsh wlan show profile PROFILE-NAME key=clear' is used in Windows to display the details of a specific wireless network profile, including the network security key (password) in clear text.
